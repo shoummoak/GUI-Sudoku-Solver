@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# IGNORE THIS FILE
+
 import Solver as sv
 
 #easy
